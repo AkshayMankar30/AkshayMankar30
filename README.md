@@ -7,8 +7,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm interested in exploring new things 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with my tech skills 😝 
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with my tech skills 
 - 🥅 2021 Goals: Learn AWS & GraphQL with React-Relay 
 - ⚡ Fun fact: I love to draw and play Cricket 
 
@@ -35,13 +35,13 @@
 <br />
 <br />
 
-<p align="center">
+## 📊 My Github Stats
+
+  <p align="center">
     <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshay Mankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayMankar30&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
-
-## 📊 My Github Stats
+  </p>
 
   <br/>
     <img alt="Akshay Mankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayMankar30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
