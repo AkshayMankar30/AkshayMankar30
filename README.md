@@ -1,4 +1,4 @@
-### Hi there, I'm Akshay - AK [Full-Stack_Developer][website] 👋
+### Hi there, I'm Akshay - [Full-Stack_Developer][website] 👋
 
 ## I'm a Masters Student & Full-Stack Developer !!
 
