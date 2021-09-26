@@ -1,6 +1,10 @@
-### Hi there, I'm Akshay - [Full-Stack_Developer][website] 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## I'm a Masters Student & Full-Stack Developer !!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshay</h1>
+
+<h3 align="center">I'm a Masters Student & Full-Stack Developer !!</h3>
+
+## 🙋‍♂️ About Me
 
 - 🔭 I'm interested in exploring new things 
 - 🌱 I’m currently learning everything 🤣
@@ -8,14 +12,6 @@
 - 🥅 2021 Goals: Learn AWS & GraphQL with React-Relay 
 - ⚡ Fun fact: I love to draw and play Cricket 
 
-### Connect with me:
-
-[<img align="left" alt="AkshayMankar_Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AKDevTips | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AkshayMankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="AkshayMankar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -39,12 +35,39 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="center">
+    <a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshay Mankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayMankar30&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-  <img align="left" alt="AkshayMankar Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayMankar30&show_icons=true&hide_border=true" />
+## 📊 My Github Stats
 
-</details>
+  <br/>
+    <img alt="Akshay Mankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayMankar30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Akshay Mankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=AkshayMankar30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true& bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<img alt="Akshay Mankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkshayMankar30&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br/>
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="AkshayMankar_Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png" />][website]
+[<img align="left" alt="AKDevTips | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="AkshayMankar | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />]
+[<img align="left" alt="AkshayMankar | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"" />][instagram]
+
+<br />
+<br />
+
 
 [website]: https://github.com/AkshayMankar30
 [youtube]: https://www.youtube.com/channel/UCqwvQcwr28jW59SJmXIJgLA
