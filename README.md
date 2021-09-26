@@ -63,7 +63,7 @@
 [<img align="left" alt="AkshayMankar_Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png" />][website]
 [<img align="left" alt="AKDevTips | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="AkshayMankar | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />]
-[<img align="left" alt="AkshayMankar | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"" />][instagram]
+[<img align="left" alt="AkshayMankar | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
